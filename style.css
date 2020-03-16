@@ -1,0 +1,39 @@
+/* "#6d8adbc7" , "#dae4ff" and "#eee" */
+
+header{
+    text-align: center;
+    background-color:#6d8adbc7 ;
+    color:white ;
+    font-family: 'Roboto', sans-serif;
+
+}
+
+#formDiv{
+    float: left;
+    margin-left: 50px;
+    padding: 20px;
+    background-color:#dae4ff ;
+    width: 35%; ;
+    /* text-align: center; */
+}
+#formDiv h1 {
+    text-align: center;
+}
+#form1 {
+    padding: 3%;
+    margin-left: 10%;
+}
+h3 {
+   margin:20px 0 0 0;
+}
+#inputText{
+width: 80%;
+height: 30px;
+}
+/* #formDiv label:last-child{
+    margin-top:20px ;
+} */
+#dateIn{
+    width: 80%;
+    height: 30px; 
+}
